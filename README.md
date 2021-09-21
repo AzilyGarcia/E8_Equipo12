@@ -1,2 +1,4 @@
-# E8_Equipo12
-  commit en equipo
+
+# Integrantes
+
+- **Aziely Garcia Gonzalez** : Soy una artista digital que busca cada dia mejorar, para que su trabajaro refleje lo mejor de mi.
