@@ -2,3 +2,5 @@
 # Integrantes
 
 - **Aziely Garcia Gonzalez** : Soy una artista digital que busca cada dia mejorar, para que su trabajaro refleje lo mejor de mi.
+
+- **Zahid González García**: Soy un Artista Digital, que junto con la ilustración y la animación puede llegar a hacer propuestas interesantes
